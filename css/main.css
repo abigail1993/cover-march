@@ -1,0 +1,50 @@
+.menu {
+    margin:  0px 50px;
+}
+.black {
+    background-color: black;
+}
+
+.white {
+    color: white;
+}
+
+
+#izq {
+    background-image: url(../assets/images/bg-purple.png);
+    background-size: cover;
+    height: 611px;
+    margin:-1px;
+    overflow-x: hidden;
+    overflow-y: auto;   
+}
+
+#lado-d{
+    margin-left: 208px;
+    margin-top: 1px;
+}
+
+#lado-i {
+    margin-left:-433px;
+}
+
+#derecha{
+    background-image: url(../assets/images/bg-green-dekstop.png);
+    background-size: cover;
+    margin-left:  2px;
+    height: 610px;
+    overflow-y: auto;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+
+.img2 {
+    width: 100%;
+}
+
+#white {
+    background-color: beige; /*este esprovicional*/
+}
